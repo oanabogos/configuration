@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: pc-prod-user
+    password: pc-prod-password

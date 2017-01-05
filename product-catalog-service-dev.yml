@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: pc-dev-user
+    password: pc-dev-password

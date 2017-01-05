@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: sc-prod-user
+    password: sc-prod-password
